@@ -46,3 +46,6 @@ QIMES skaliert mit der Komplexität deiner Frage:
 Füge den Prompt als **System-Prompt** oder an den Anfang deiner Nachricht ein.
 
 ### Schritt 3: Frage stellen + Level angeben (optional)
+
+
+
